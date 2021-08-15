@@ -18,7 +18,10 @@ div.d {
 a {
   text-decoration: none;
   font-size: 150%;
-  color: #fff;
+  color: #c5c3c6;
+}
+a:hover {
+  font-size: 1.2em
 }
 h1 {
   font-size: 6em;
