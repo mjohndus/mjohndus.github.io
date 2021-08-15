@@ -3,22 +3,27 @@ html {
   text-align: center;
   background: #353535;*/
 }
-
 body {
+  text-align: center;
   background-color: #000;
 }
-
 li {
   list-style-type: none;
   margin: 1em;
   height: 1em;
 }
-
 div.d {
   font-size: 150%;
 }
-
 a {
   font-size: 150%;
+  color: #fff;
+}
+h1 {
+  font-size: 4em;
+  color: #fff;
+}
+h2 {
+  font-size: 2.5em;
   color: #fff;
 }
