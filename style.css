@@ -1,13 +1,21 @@
+html {
+}
+
+body {
+  background-color: #000;
+}
+
 li {
   list-style-type: none;
   margin: 1em;
   height: 1em;
 }
 
-div.c {
+div.d {
   font-size: 150%;
 }
 
 a {
   font-size: 150%;
+  color: #fff;
 }
