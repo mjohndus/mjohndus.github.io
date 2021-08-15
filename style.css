@@ -16,12 +16,13 @@ div.d {
   font-size: 150%;
 }
 a {
+  text-decoration: none;
   font-size: 150%;
   color: #fff;
 }
 h1 {
   font-size: 6em;
-  color: #000;
+  color: yellow;
 }
 h2 {
   font-size: 2.5em;
