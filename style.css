@@ -16,6 +16,8 @@ div.d {
   font-size: 150%;
 }
 a {
+  margin: 1em;
+  height: 1em;
   font-size: 150%;
   color: #fff;
 }
