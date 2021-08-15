@@ -3,3 +3,7 @@ li {
   margin: 1em;
   height: 1em;
 }
+
+div.c {
+  font-size: 150%;
+}
