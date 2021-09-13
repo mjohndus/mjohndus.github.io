@@ -1,4 +1,4 @@
-### mjohndus my projects !
+#### mjohndus projects !
 
 
-[Website !](https://mjohndus.github.io)
+[Website](https://mjohndus.github.io)
